@@ -1,4 +1,4 @@
-/snap/clion/149/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sovest/lab03
+/snap/clion/149/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sovest/SovesT1337/workspace/projects/lab4
 -- The C compiler identification is GNU 9.3.0
 -- The CXX compiler identification is GNU 9.3.0
 -- Detecting C compiler ABI info
@@ -15,7 +15,7 @@
 CMake Error at CMakeLists.txt:10 (add_library):
   Cannot find source file:
 
-    /home/sovest/lab03/sources/print.cpp
+    /home/sovest/SovesT1337/workspace/projects/lab4/sources/print.cpp
 
   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
   .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .ispc
