@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/sovest/lab03/solver_lib/solver.cpp
+/home/sovest/SovesT1337/workspace/projects/lab4/solver_lib/solver.cpp
 solver.h
-/home/sovest/lab03/solver_lib/solver.h
+/home/sovest/SovesT1337/workspace/projects/lab4/solver_lib/solver.h
 stdexcept
 -
 cmath
 -
 
-/home/sovest/lab03/solver_lib/solver.h
+/home/sovest/SovesT1337/workspace/projects/lab4/solver_lib/solver.h
 

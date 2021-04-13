@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/sovest/lab03/solver_lib/solver.cpp" "/home/sovest/lab03/solver_application/_build/solver_lib/CMakeFiles/solver_lib.dir/solver.cpp.o"
+  "/home/sovest/SovesT1337/workspace/projects/lab4/solver_lib/solver.cpp" "/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/_build/solver_lib/CMakeFiles/solver_lib.dir/solver.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/sovest/lab03/solver_application/../formatter_ex_lib"
-  "/home/sovest/lab03/solver_application/../solver_lib"
+  "/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/../formatter_ex_lib"
+  "/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/../solver_lib"
   )
 
 # Targets to which this target links.

@@ -1,4 +1,4 @@
-# Install script for directory: /home/sovest/lab03/formatter_ex_lib
+# Install script for directory: /home/sovest/SovesT1337/workspace/projects/lab4/formatter_ex_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sovest/lab03/hello_world_application/_build/formatter_ex/formatter/cmake_install.cmake")
+  include("/home/sovest/SovesT1337/workspace/projects/lab4/hello_world_application/_build/formatter_ex/formatter/cmake_install.cmake")
 endif()
 

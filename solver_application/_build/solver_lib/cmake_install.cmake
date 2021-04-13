@@ -1,4 +1,4 @@
-# Install script for directory: /home/sovest/lab03/solver_lib
+# Install script for directory: /home/sovest/SovesT1337/workspace/projects/lab4/solver_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

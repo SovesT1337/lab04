@@ -14,11 +14,11 @@ iostream
 
 ../../solver_lib/solver.h
 
-/home/sovest/lab03/solver_application/equation.cpp
+/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/equation.cpp
 iostream
 -
 formatter_ex.h
-/home/sovest/lab03/solver_application/formatter_ex.h
+/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/formatter_ex.h
 solver.h
-/home/sovest/lab03/solver_application/solver.h
+/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/solver.h
 

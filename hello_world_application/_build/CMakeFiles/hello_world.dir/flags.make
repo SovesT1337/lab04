@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/sovest/lab03/hello_world_application/../formatter_ex_lib 
+CXX_INCLUDES = -I/home/sovest/SovesT1337/workspace/projects/lab4/hello_world_application/../formatter_ex_lib 
 

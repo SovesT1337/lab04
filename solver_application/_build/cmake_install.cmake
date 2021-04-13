@@ -1,4 +1,4 @@
-# Install script for directory: /home/sovest/lab03/solver_application
+# Install script for directory: /home/sovest/SovesT1337/workspace/projects/lab4/solver_application
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/sovest/lab03/solver_application/_build/formatter_ex/cmake_install.cmake")
-  include("/home/sovest/lab03/solver_application/_build/solver_lib/cmake_install.cmake")
+  include("/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/_build/formatter_ex/cmake_install.cmake")
+  include("/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/_build/solver_lib/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/sovest/lab03/solver_application/_build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/sovest/SovesT1337/workspace/projects/lab4/solver_application/_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

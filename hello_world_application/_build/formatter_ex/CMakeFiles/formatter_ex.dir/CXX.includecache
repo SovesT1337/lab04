@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/sovest/lab03/formatter_ex_lib/formatter_ex.cpp
+/home/sovest/SovesT1337/workspace/projects/lab4/formatter_ex_lib/formatter_ex.cpp
 formatter_ex.h
-/home/sovest/lab03/formatter_ex_lib/formatter_ex.h
+/home/sovest/SovesT1337/workspace/projects/lab4/formatter_ex_lib/formatter_ex.h
 formatter.h
-/home/sovest/lab03/formatter_ex_lib/formatter.h
+/home/sovest/SovesT1337/workspace/projects/lab4/formatter_ex_lib/formatter.h
 
-/home/sovest/lab03/formatter_ex_lib/formatter_ex.h
+/home/sovest/SovesT1337/workspace/projects/lab4/formatter_ex_lib/formatter_ex.h
 string
 -
 iostream
 -
 
-/home/sovest/lab03/formatter_lib/formatter.h
+/home/sovest/SovesT1337/workspace/projects/lab4/formatter_lib/formatter.h
 string
 -
 

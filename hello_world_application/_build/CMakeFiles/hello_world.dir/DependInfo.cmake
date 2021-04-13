@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/sovest/lab03/hello_world_application/hello_world.cpp" "/home/sovest/lab03/hello_world_application/_build/CMakeFiles/hello_world.dir/hello_world.cpp.o"
+  "/home/sovest/SovesT1337/workspace/projects/lab4/hello_world_application/hello_world.cpp" "/home/sovest/SovesT1337/workspace/projects/lab4/hello_world_application/_build/CMakeFiles/hello_world.dir/hello_world.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -15,8 +15,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/sovest/lab03/hello_world_application/_build/formatter_ex/CMakeFiles/formatter_ex.dir/DependInfo.cmake"
-  "/home/sovest/lab03/hello_world_application/_build/formatter_ex/formatter/CMakeFiles/formatter.dir/DependInfo.cmake"
+  "/home/sovest/SovesT1337/workspace/projects/lab4/hello_world_application/_build/formatter_ex/CMakeFiles/formatter_ex.dir/DependInfo.cmake"
+  "/home/sovest/SovesT1337/workspace/projects/lab4/hello_world_application/_build/formatter_ex/formatter/CMakeFiles/formatter.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
